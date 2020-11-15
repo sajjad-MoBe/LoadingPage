@@ -1,2 +1,2 @@
-# LoudingPage
-loading page with html,css
+# LoadingPage
+loading page with html,css.
